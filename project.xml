@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+
+	<meta title="HaxeStarter" package="com.sample.haxestarter" version="1.0.0" company="Company Name" />
+	<app main="Main" path="Export" file="HaxeStarter" />
+
+	<source path="Source" />
+	
+	<haxelib name="lime" />
+	
+	<assets path="Assets" />
+	
+</project>
