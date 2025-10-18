@@ -21,7 +21,9 @@ class Main extends Application
 		//update loop here
 	}
 
+	//Comment this entire function out to create a windowed application, otherwise it will be headless
 	override public function createWindow(attributes:WindowAttributes): Window {
+
 		trace("Hello Headless World");
 		return null;
 	}
